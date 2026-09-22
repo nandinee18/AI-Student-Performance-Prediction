@@ -2,6 +2,14 @@
 
 An AI-based machine learning application that predicts a student's expected final academic score using academic, engagement, and lifestyle factors.
 
+# CareerTrack
+
+A career management dashboard built with Streamlit.
+
+# Live Demo
+
+View Live Demo → https://ai-student-performance-predi-yq2ygj93ixrbuex7uuzsfp.streamlit.app/
+
 ## Features
 
 - Predicts expected final student score
